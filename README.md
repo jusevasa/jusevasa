@@ -2,7 +2,7 @@
 <h2>Frontend Developer 🎨</h2>
 
 ### About Me
-- I am 26 years old and I am from Bogota, Colombia.
+- I am 27 years old and I am from Bogota, Colombia.
 - I am full stack developer.
 - I am a self-taught and highly creative individual who seeks to learn and improve every day.
 - I enjoy working with the frontend because I want to provide the best visual experience for the users who visit my projects.
